@@ -281,17 +281,6 @@ CSE Student | Full-Stack Developer
 Give it a ⭐ on GitHub and share your feedback!
 
 
-
-XXX-------login details -------------XXX
-
-Role	            Email	           Password
-
-Demo User	    demo@cinemahub.com	    demo123
-Admin	        admin@cinemahub.com	    admin123
-
-XXX---------------------------------XXX
-
-
 Terminal 1 — Backend:
 cd backend
 npm install
