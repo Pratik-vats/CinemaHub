@@ -153,12 +153,6 @@ RAZORPAY_SECRET=your_secret
 npm run seed
 ```
 
-Demo users created:
-
-```
-User: demo@cinemahub.com / demo123
-Admin: admin@cinemahub.com / admin123
-```
 
 ---
 
@@ -281,17 +275,6 @@ CSE Student | Full-Stack Developer
 Give it a ⭐ on GitHub and share your feedback!
 
 
-
-XXX-------login details -------------XXX
-
-Role	            Email	           Password
-
-Demo User	    demo@cinemahub.com	    demo123
-Admin	        admin@cinemahub.com	    admin123
-
-XXX---------------------------------XXX
-
-
 Terminal 1 — Backend:
 cd backend
 npm install
@@ -304,3 +287,6 @@ npm install
 npm run dev       # starts the frontend on port 5173
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+https://cinema-hub-black.vercel.app/
