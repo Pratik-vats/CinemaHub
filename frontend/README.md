@@ -287,6 +287,3 @@ npm install
 npm run dev       # starts the frontend on port 5173
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-https://cinema-hub-black.vercel.app/
